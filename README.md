@@ -1,2 +1,2 @@
 # Javascript_project
-List of javascript projects 
+List of javascript projects for exercise
